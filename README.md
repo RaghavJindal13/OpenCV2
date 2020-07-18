@@ -11,3 +11,9 @@ This program is created to click the image through python code by accessing the 
 
 ### __3.__ phone_livestream
 This program is created to livestream through python code by accessing the phone camera which is connected through a URL.Note that the URL may be different.Note that the URL may be different and you need to install IP Webcam application on your mobile phones.
+  
+### __4.__ crop_image.ipynb
+This file is created to crop the image for a specified frame in the program.  
+  
+### __5.__ crop_livestream.ipynb  
+This file is created to crop the livestream for a specified frame in the program.  
