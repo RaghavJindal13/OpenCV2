@@ -9,14 +9,14 @@ This program allows a user to live stream himself by this program and end the li
 ### __3.__ Phone Click
 This program is created to click the image through python code by accessing the phone camera which is connected through a URL.Note that the URL may be different and you need to install IP Webcam application on your mobile phones.
 
-### __3.__ phone_livestream
+### __4.__ phone_livestream
 This program is created to livestream through python code by accessing the phone camera which is connected through a URL.Note that the URL may be different.Note that the URL may be different and you need to install IP Webcam application on your mobile phones.
   
-### __4.__ crop_image.ipynb
+### __5.__ crop_image.ipynb
 This file is created to crop the image for a specified frame in the program.  
   
-### __5.__ crop_livestream.ipynb  
+### __6.__ crop_livestream.ipynb  
 This file is created to crop the livestream for a specified frame in the program.  
 
-### __6.__ grayscale_conversion.ipynb  
+### __7.__ grayscale_conversion.ipynb  
 This file is created to convert the original image to grayscale image.  
