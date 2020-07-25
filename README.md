@@ -22,4 +22,4 @@ This file is created to crop the livestream for a specified frame in the program
 This file is created to convert the original image to grayscale image.  
 
 ### __8.__ remove_red_color_from_image.ipynb  
-This file is created so that all the red color present in the image can be removed i.e intensity of Red will be zero
+This file is created so that all the red color present in the image can be removed i.e intensity of Red will be zero.
