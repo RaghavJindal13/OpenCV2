@@ -26,3 +26,13 @@ This file is created so that all the red color present in the image can be remov
 
 ### __9.__ rectangle_on_livestream.ipynb  
 This file is created to place the rectangle at a specified frame.
+
+### __10.__ EyeDetection.ipynb  
+This file is created to detect eyes of the human face by using haarcascade model and place the rectangle where the eyes goes.  
+__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.  
+
+### __11.__ face_detection_haarcascade.ipynb  
+This file is created to detect the faces using haarcascade model and place the rectangle where the face goes.  
+__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.  
+
+  
