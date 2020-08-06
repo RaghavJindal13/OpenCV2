@@ -33,6 +33,6 @@ __*haarcascade_frontalface_default.xml*__ is the model used in the program to de
 
 ### __11.__ face_detection_haarcascade.ipynb  
 This file is created to detect the faces using haarcascade model and place the rectangle where the face goes.  
-__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face  
+__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.
 
   
